@@ -32,7 +32,7 @@ build/
 .env.production.local
 
 # Ignore compiled CSS if using SCSS
-css/*.map
+#css/*.map
 
 # GitHub Pages build cache
 _site/
